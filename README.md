@@ -1,2 +1,2 @@
 # Telegram-price-bot
-# Telegram Price Bot  A simple Telegram bot that gives live crypto prices using CoinGecko API.  ## How to Run 1. Get a bot token from @BotFather on Telegram 2. Install requirements: `pip install pyTelegramBotAPI requests` 3. Replace YOUR_BOT_TOKEN_HERE in bot.py 4. Run: `python bot.py`  ## Tech Used - Python - pyTelegramBotAPI - CoinGecko API
+# Telegram Price Bot  A simple Telegram bot that gives live crypto prices using CoinGecko API.  ## How to Run 1. Get a bot token from @BotFather on Telegram 2. Install requirements: `pip install pyTelegramBotAPI requests` 3. Replace YOUR_BOT_TOKEN_HERE 8601189232:AAFFTZVFFi8g9FtHp_NJVrVzsG8VIJXmy3Q 4. Run: `python bot.py`  ## Tech Used - Python - pyTelegramBotAPI - CoinGecko API
